@@ -1,0 +1,16 @@
+# local package
+
+
+# external requirements
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+plotly
+dash
+streamlit
+fastapi
+prophet
